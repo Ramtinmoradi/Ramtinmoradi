@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">Software Engineer<br>I am a Software Engineer with 3+ years of experience in the mobile development ecosystem (Flutter & Kotlin). I am currently focusing on building robust and scalable backend systems using Java and Spring Boot<br><br>- 🔭 I’m currently developing an E-commerce Backend using Spring Boot, Spring Security, and MySQL.<br>- 🌱 I’m currently deepening my knowledge in Database Optimization and RESTful API Design.<br>- 🛠 I enjoy building open-source tools to help developers, like my [Simple Flutter Stepper].<br><br>🛠 Tech Stack & Tools<br>- Languages: Java, Kotlin, Dart, SQL<br>- Backend: Spring Boot, Spring Data JPA, Spring Security, RESTful APIs<br>- Database: PostgreSQL, MySQL<br>- Mobile: Flutter, JetpackCompose (BLoC, GetX, Clean Architecture)<br>- Tools: Docker, Git, Linux</p>
+<p align="left">I am a Software Engineer with 3+ years of experience in the mobile development ecosystem (Flutter & Kotlin). I am currently focusing on building robust and scalable backend systems using Java and Spring Boot<br><br>- 🔭 I’m currently developing an E-commerce Backend using Spring Boot, Spring Security, and MySQL.<br>- 🌱 I’m currently deepening my knowledge in Database Optimization and RESTful API Design.<br>- 🛠 I enjoy building open-source tools to help developers, like my [Simple Flutter Stepper].<br><br>🛠 Tech Stack & Tools<br>- Languages: Java, Kotlin, Dart, SQL<br>- Backend: Spring Boot, Spring Data JPA, Spring Security, RESTful APIs<br>- Database: PostgreSQL, MySQL<br>- Mobile: Flutter, JetpackCompose (BLoC, GetX, Clean Architecture)<br>- Tools: Docker, Git, Linux</p>
 
 ###
 
